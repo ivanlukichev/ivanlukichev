@@ -43,7 +43,8 @@ Browser games built for quick play sessions.
 - Word Chain Game — https://word-chain-game.com  
 - Goroda — https://goroda-na.ru  
 - Solitaire — https://играть-пасьянс.рф  
-- Tic-Tac-Toe — https://крестики-нолики.рф  
+- Tic-Tac-Toe — https://крестики-нолики.рф
+- Sudoku Play - https://sudoku-play.org/
 
 ---
 
