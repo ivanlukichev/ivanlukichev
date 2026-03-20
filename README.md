@@ -45,6 +45,7 @@ Browser games built for quick play sessions.
 - Solitaire — https://играть-пасьянс.рф  
 - Tic-Tac-Toe — https://крестики-нолики.рф
 - Sudoku Play - https://sudoku-play.org/
+- PlayMathPuzzles - https://playmathpuzzles.com/
 
 ---
 
