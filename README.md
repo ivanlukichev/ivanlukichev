@@ -46,6 +46,7 @@ Browser games built for quick play sessions.
 - Tic-Tac-Toe — https://крестики-нолики.рф
 - Sudoku Play - https://sudoku-play.org/
 - PlayMathPuzzles - https://playmathpuzzles.com/
+- Слова из Слова - https://slova-game.ru/
 
 ---
 
