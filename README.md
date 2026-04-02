@@ -30,7 +30,8 @@ A collection of small independent web products and experiments.
 - PickWinner — https://pickwinner.tools  
 - HTTPTools — https://httptools.net  
 - CalcSprint — https://calcsprint.com  
-- PickHeadphones — https://pickheadphones.com  
+- PickHeadphones — https://pickheadphones.com
+- SPA: SEO Page Audit - https://github.com/ivanlukichev/spa-seo-page-audit 
 
 ---
 
