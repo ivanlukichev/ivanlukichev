@@ -49,6 +49,10 @@ Browser games built for quick play sessions.
 - PlayMathPuzzles - https://playmathpuzzles.com/
 - Слова из Слова - https://slova-game.ru/
 
+- ### 🚀 Extensions & Apps
+
+Chrome · [Firefox](https://addons.mozilla.org/firefox/user/19809108/) · [Edge](https://microsoftedge.microsoft.com/addons/search?developer=Ivan%20Lukichev) · App Store · Google Play  
+
 ---
 
 ## About
