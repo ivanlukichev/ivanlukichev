@@ -29,7 +29,6 @@ A collection of small independent web products and experiments.
 
 - PickWinner — https://pickwinner.tools  
 - HTTPTools — https://httptools.net  
-- CalcSprint — https://calcsprint.com  
 - PickHeadphones — https://pickheadphones.com
 - SPA: SEO Page Audit - https://github.com/ivanlukichev/spa-seo-page-audit 
 
@@ -48,6 +47,7 @@ Browser games built for quick play sessions.
 - Sudoku Play - https://sudoku-play.org/
 - PlayMathPuzzles - https://playmathpuzzles.com/
 - Слова из Слова - https://slova-game.ru/
+- CalcSprint — https://calcsprint.com  
 - Number Hunt Game - https://numberhuntgame.com/ 
 
 - ### 🚀 Extensions & Apps
