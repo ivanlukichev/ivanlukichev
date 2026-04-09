@@ -143,7 +143,7 @@ Browser games built for quick play sessions.
       <a href="https://numberhuntgame.com/">site</a> · <a href="https://github.com/ivanlukichev/numberhuntgame">GitHub</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://skillsudoku.com/"><img src="https://raw.githubusercontent.com/ivanlukichev/skillsudoku_public/main/assets/preview.jpg" alt="SkillSudoku preview"></a><br>
+      <a href="https://skillsudoku.com/"><img src="https://raw.githubusercontent.com/ivanlukichev/skillsudoku_public/main/assets/preview.jpg" alt="SkillSudoku preview" width="100%" height="210"></a><br>
       <strong>SkillSudoku</strong><br>
       <sub>Sudoku project with a guide layer and search-friendly content hub.</sub><br>
       <a href="https://skillsudoku.com/">site</a> · <a href="https://github.com/ivanlukichev/skillsudoku_public">GitHub</a>
