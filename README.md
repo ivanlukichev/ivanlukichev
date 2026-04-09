@@ -27,10 +27,10 @@ https://apps.apple.com/id6751572041
 
 A collection of small independent web products and experiments.
 
-- PickWinner — https://pickwinner.tools  
-- HTTPTools — https://httptools.net  
-- PickHeadphones — https://pickheadphones.com
-- SPA: SEO Page Audit - https://github.com/ivanlukichev/spa-seo-page-audit 
+- PickWinner — [site](https://pickwinner.tools)  
+- HTTPTools — [site](https://httptools.net)  
+- PickHeadphones — [site](https://pickheadphones.com)  
+- SPA: SEO Page Audit — [GitHub](https://github.com/ivanlukichev/spa-seo-page-audit)  
 
 ---
 
@@ -38,20 +38,20 @@ A collection of small independent web products and experiments.
 
 Browser games built for quick play sessions.
 
-- BlockPlay — https://blockplaygame.com  
-- PlayBlockGame — https://playblockgame.ru  
-- Word Chain Game — https://word-chain-game.com  
-- Goroda — https://goroda-na.ru  
-- Solitaire — https://играть-пасьянс.рф  
-- Tic-Tac-Toe — https://крестики-нолики.рф
-- Sudoku Play - https://sudoku-play.org/
-- PlayMathPuzzles - https://playmathpuzzles.com/
-- Слова из Слова - https://slova-game.ru/
-- CalcSprint — https://calcsprint.com  
-- Number Hunt Game - https://numberhuntgame.com/
-- Sudoku https://skillsudoku.com/
+- BlockPlay — [site](https://blockplaygame.com)  
+- PlayBlockGame — [site](https://playblockgame.ru)  
+- Word Chain Game — [site](https://word-chain-game.com)  
+- Goroda — [site](https://goroda-na.ru)  
+- Solitaire — [site](https://играть-пасьянс.рф)  
+- Tic-Tac-Toe — [site](https://крестики-нолики.рф)  
+- Sudoku Play — [site](https://sudoku-play.org/) · [GitHub](https://github.com/ivanlukichev/Sudoku-Play)  
+- PlayMathPuzzles — [site](https://playmathpuzzles.com/) · [GitHub](https://github.com/ivanlukichev/PlayMathPuzzles)  
+- Слова из Слова — [site](https://slova-game.ru/)  
+- CalcSprint — [site](https://calcsprint.com) · [GitHub](https://github.com/ivanlukichev/CalcSprint)  
+- Number Hunt — [site](https://numberhuntgame.com/) · [GitHub](https://github.com/ivanlukichev/numberhuntgame)  
+- SkillSudoku — [site](https://skillsudoku.com/) · [GitHub](https://github.com/ivanlukichev/skillsudoku_public)  
 
-- ### 🚀 Extensions & Apps
+### 🚀 Extensions & Apps
 
 Chrome · [Firefox](https://addons.mozilla.org/firefox/user/19809108/) · [Edge](https://microsoftedge.microsoft.com/addons/search?developer=Ivan%20Lukichev) · App Store · Google Play  
 
