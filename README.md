@@ -15,6 +15,12 @@ https://lukichev.biz/
 
 Browser-based jigsaw puzzle platform.
 
+<p align="center">
+  <a href="https://puzzlefree.game">
+    <img src="assets/puzzlefree-preview.jpg" alt="PuzzleFree preview">
+  </a>
+</p>
+
 🌐 https://puzzlefree.game
 
 📱 Apps  
