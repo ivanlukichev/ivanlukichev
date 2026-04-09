@@ -48,7 +48,8 @@ Browser games built for quick play sessions.
 - PlayMathPuzzles - https://playmathpuzzles.com/
 - Слова из Слова - https://slova-game.ru/
 - CalcSprint — https://calcsprint.com  
-- Number Hunt Game - https://numberhuntgame.com/ 
+- Number Hunt Game - https://numberhuntgame.com/
+- Sudoku https://skillsudoku.com/
 
 - ### 🚀 Extensions & Apps
 
