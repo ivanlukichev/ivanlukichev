@@ -27,9 +27,9 @@ https://apps.apple.com/id6751572041
 
 A collection of small independent web products and experiments.
 
-- PickWinner — [site](https://pickwinner.tools) · [GitHub](https://github.com/ivanlukichev/pickwinner.tools)  
-- HTTPTools — [site](https://httptools.net) · [GitHub](https://github.com/ivanlukichev/httptools.net)  
-- PickHeadphones — [site](https://pickheadphones.com) · [GitHub](https://github.com/ivanlukichev/pickheadphones.com)  
+- PickWinner — [site](https://pickwinner.tools) · [GitHub](https://github.com/ivanlukichev/pickwinner)  
+- HTTPTools — [site](https://httptools.net) · [GitHub](https://github.com/ivanlukichev/HTTPTools)  
+- PickHeadphones — [site](https://pickheadphones.com) · [GitHub](https://github.com/ivanlukichev/PickHeadphones)  
 - SPA: SEO Page Audit — [GitHub](https://github.com/ivanlukichev/spa-seo-page-audit)  
 
 ---
@@ -38,15 +38,15 @@ A collection of small independent web products and experiments.
 
 Browser games built for quick play sessions.
 
-- BlockPlay — [site](https://blockplaygame.com) · [GitHub](https://github.com/ivanlukichev/blockplaygame-worker)  
-- PlayBlockGame — [site](https://playblockgame.ru) · [GitHub](https://github.com/ivanlukichev/PlayBlockGame.Ru)  
-- Word Chain Game — [site](https://word-chain-game.com)  
-- Goroda — [site](https://goroda-na.ru) · [GitHub](https://github.com/ivanlukichev/goroda-na.ru)  
-- Solitaire — [site](https://играть-пасьянс.рф) · [GitHub](https://github.com/ivanlukichev/igrat-pasyans-rf)  
-- Tic-Tac-Toe — [site](https://крестики-нолики.рф) · [GitHub](https://github.com/ivanlukichev/krestiki-noliki-rf)  
+- BlockPlay — [site](https://blockplaygame.com) · [GitHub](https://github.com/ivanlukichev/BlockPlay-Game)  
+- PlayBlockGame — [site](https://playblockgame.ru) · [GitHub](https://github.com/ivanlukichev/PlayBlockGame)  
+- Word Chain Game — [site](https://word-chain-game.com) · [GitHub](https://github.com/ivanlukichev/Word-Chain-Game)  
+- Goroda — [site](https://goroda-na.ru) · [GitHub](https://github.com/ivanlukichev/Goroda-na)  
+- Solitaire — [site](https://играть-пасьянс.рф) · [GitHub](https://github.com/ivanlukichev/-)  
+- Tic-Tac-Toe — [site](https://крестики-нолики.рф) · [GitHub](https://github.com/ivanlukichev/---)  
 - Sudoku Play — [site](https://sudoku-play.org/) · [GitHub](https://github.com/ivanlukichev/Sudoku-Play)  
 - PlayMathPuzzles — [site](https://playmathpuzzles.com/) · [GitHub](https://github.com/ivanlukichev/PlayMathPuzzles)  
-- Слова из Слова — [site](https://slova-game.ru/) · [GitHub](https://github.com/ivanlukichev/slova-game.ru)  
+- Слова из Слова — [site](https://slova-game.ru/) · [GitHub](https://github.com/ivanlukichev/SlovaGame)  
 - CalcSprint — [site](https://calcsprint.com) · [GitHub](https://github.com/ivanlukichev/CalcSprint)  
 - Number Hunt — [site](https://numberhuntgame.com/) · [GitHub](https://github.com/ivanlukichev/numberhuntgame)  
 - SkillSudoku — [site](https://skillsudoku.com/) · [GitHub](https://github.com/ivanlukichev/skillsudoku_public)  
