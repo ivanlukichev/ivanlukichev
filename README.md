@@ -50,6 +50,7 @@ A collection of small independent web products and experiments.
       <a href="https://pickheadphones.com">site</a> · <a href="https://github.com/ivanlukichev/PickHeadphones">GitHub</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/ivanlukichev/spa-seo-page-audit"><img src="https://raw.githubusercontent.com/ivanlukichev/spa-seo-page-audit/main/readme-banner.png" alt="SPA SEO Page Audit preview"></a><br>
       <strong>SPA: SEO Page Audit</strong><br>
       <sub>Browser extension for quick local on-page SEO checks and popup audits.</sub><br>
       <a href="https://github.com/ivanlukichev/spa-seo-page-audit">GitHub</a>
