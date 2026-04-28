@@ -118,7 +118,7 @@ Browser games built for quick play sessions.
       <a href="https://sudoku-play.org/"><img src="https://raw.githubusercontent.com/ivanlukichev/Sudoku-Play/main/assets/preview.svg" alt="Sudoku Play preview"></a><br>
       <strong>Sudoku Play</strong><br>
       <sub>Classic, daily, and kids Sudoku in a clean browser-first format.</sub><br>
-      <a href="https://sudoku-play.org/">site</a> · <a href="https://github.com/ivanlukichev/Sudoku-Play">GitHub</a> · <a href="https://apps.apple.com/app/id6763089363">App Store</a>
+      <a href="https://sudoku-play.org/">site</a> · <a href="https://github.com/ivanlukichev/Sudoku-Play">GitHub</a> · <a href="https://apps.apple.com/app/id6763089363">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.justsudoku">Google Play</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://playmathpuzzles.com/"><img src="https://raw.githubusercontent.com/ivanlukichev/PlayMathPuzzles/main/assets/preview.svg" alt="PlayMathPuzzles preview"></a><br>
