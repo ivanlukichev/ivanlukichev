@@ -26,6 +26,8 @@ Browser-based jigsaw puzzle platform.
 📱 Apps  
 https://play.google.com/store/apps/details?id=com.enidev.puzzlefree  
 https://apps.apple.com/id6751572041
+https://kids.puzzlefree.game  
+https://apps.apple.com/app/id6761406530
 
 ---
 
