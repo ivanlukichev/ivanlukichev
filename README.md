@@ -21,13 +21,10 @@ Browser-based jigsaw puzzle platform.
   </a>
 </p>
 
-🌐 https://puzzlefree.game
-
-📱 Apps  
-https://play.google.com/store/apps/details?id=com.enidev.puzzlefree  
-https://apps.apple.com/id6751572041
-https://kids.puzzlefree.game  
-https://apps.apple.com/app/id6761406530
+| Product | Website | Apps |
+| --- | --- | --- |
+| PuzzleFree | https://puzzlefree.game | [App Store](https://apps.apple.com/id6751572041) · [Google Play](https://play.google.com/store/apps/details?id=com.enidev.puzzlefree) |
+| Kids Puzzle | https://kids.puzzlefree.game | [App Store](https://apps.apple.com/app/id6761406530) |
 
 ---
 
