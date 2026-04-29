@@ -137,7 +137,7 @@ Browser games built for quick play sessions.
       <a href="https://calcsprint.com"><img src="https://raw.githubusercontent.com/ivanlukichev/CalcSprint/main/assets/preview.svg" alt="CalcSprint preview"></a><br>
       <strong>CalcSprint</strong><br>
       <sub>Fast mental math drills built for daily repetition.</sub><br>
-      <a href="https://calcsprint.com">site</a> · <a href="https://github.com/ivanlukichev/CalcSprint">GitHub</a> · <a href="https://apps.apple.com/app/id6763547636">App Store</a>
+      <a href="https://calcsprint.com">site</a> · <a href="https://github.com/ivanlukichev/CalcSprint">GitHub</a> · <a href="https://apps.apple.com/app/id6763547636">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.calcsprint">Google Play</a>
     </td>
   </tr>
   <tr>
