@@ -61,6 +61,14 @@ A collection of small independent web products and experiments.
       <a href="https://github.com/ivanlukichev/spa-seo-page-audit">GitHub</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://colouringapp.com/"><img src="https://colouringapp.com/assets/og-image.jpg" alt="Colorful Hearts preview"></a><br>
+      <strong>Colorful Hearts</strong><br>
+      <sub>Private offline coloring app for children and families.</sub><br>
+      <a href="https://colouringapp.com/">site</a>
+    </td>
+  </tr>
 </table>
 
 ---
