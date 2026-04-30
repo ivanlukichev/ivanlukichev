@@ -68,6 +68,12 @@ A collection of small independent web products and experiments.
       <sub>Private offline coloring app for children and families.</sub><br>
       <a href="https://colouringapp.com/">site</a>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://morsecodes.app/"><img src="https://morsecodes.app/assets/screenshots/01-text-to-morse.jpg" alt="Morse Code app preview" height="210"></a><br>
+      <strong>Morse Code</strong><br>
+      <sub>Offline Morse encoder, decoder, learning, and signal app for seven alphabets.</sub><br>
+      <a href="https://morsecodes.app/">site</a>
+    </td>
   </tr>
 </table>
 
