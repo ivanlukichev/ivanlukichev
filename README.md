@@ -69,7 +69,7 @@ A collection of small independent web products and experiments.
       <a href="https://colouringapp.com/">site</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://morsecodes.app/"><img src="assets/morsecodes-app.png" alt="Morse Code app preview"></a><br>
+      <a href="https://morsecodes.app/"><img src="assets/morsecodes-preview.svg" alt="Morse Code app preview"></a><br>
       <strong>Morse Code</strong><br>
       <sub>Offline Morse encoder, decoder, learning, and signal app for seven alphabets.</sub><br>
       <a href="https://morsecodes.app/">site</a>
