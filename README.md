@@ -63,30 +63,10 @@ A collection of small independent web products and experiments.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://colouringapp.com/"><img src="https://colouringapp.com/assets/og-image.jpg" alt="Colorful Hearts preview"></a><br>
-      <strong>Colorful Hearts</strong><br>
-      <sub>Private offline coloring app for children and families.</sub><br>
-      <a href="https://colouringapp.com/">site</a>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://morsecodes.app/"><img src="assets/morsecodes-preview.svg" alt="Morse Code app preview"></a><br>
       <strong>Morse Code</strong><br>
       <sub>Offline Morse encoder, decoder, learning, and signal app for seven alphabets.</sub><br>
       <a href="https://morsecodes.app/">site</a> · <a href="https://apps.apple.com/app/id6764839522">App Store</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://beadart.app/"><img src="assets/beadart-preview.png" alt="BeadArt app preview"></a><br>
-      <strong>BeadArt</strong><br>
-      <sub>Relaxing bead mosaic app with colorful numbered grids and calm picture-building flow.</sub><br>
-      <a href="https://beadart.app/">site</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://pixelpaintapp.com/"><img src="assets/pixelpaint-preview.png" alt="PixelPaint app preview"></a><br>
-      <strong>PixelPaint</strong><br>
-      <sub>Photo-to-pixel-art coloring app for relaxed offline painting and playful pixel puzzles.</sub><br>
-      <a href="https://pixelpaintapp.com/">site</a>
     </td>
   </tr>
 </table>
@@ -100,33 +80,53 @@ Browser games built for quick play sessions.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://colouringapp.com/"><img src="https://colouringapp.com/assets/og-image.jpg" alt="Colorful Hearts preview"></a><br>
+      <strong>Colorful Hearts</strong><br>
+      <sub>Private offline coloring game for children and families.</sub><br>
+      <a href="https://colouringapp.com/">site</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://beadart.app/"><img src="assets/beadart-preview.png" alt="BeadArt app preview"></a><br>
+      <strong>BeadArt</strong><br>
+      <sub>Relaxing bead mosaic game with colorful numbered grids and calm picture-building flow.</sub><br>
+      <a href="https://beadart.app/">site</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://pixelpaintapp.com/"><img src="assets/pixelpaint-preview.png" alt="PixelPaint app preview"></a><br>
+      <strong>PixelPaint</strong><br>
+      <sub>Photo-to-pixel-art coloring game for relaxed offline painting and playful pixel puzzles.</sub><br>
+      <a href="https://pixelpaintapp.com/">site</a>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://blockplaygame.com"><img src="https://raw.githubusercontent.com/ivanlukichev/BlockPlay-Game/main/assets/preview.svg" alt="BlockPlay preview"></a><br>
       <strong>BlockPlay</strong><br>
       <sub>Clean browser block puzzle for fast score runs.</sub><br>
       <a href="https://blockplaygame.com">site</a> · <a href="https://github.com/ivanlukichev/BlockPlay-Game">GitHub</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://playblockgame.ru"><img src="https://raw.githubusercontent.com/ivanlukichev/PlayBlockGame/main/assets/preview.svg" alt="PlayBlockGame preview"></a><br>
       <strong>PlayBlockGame</strong><br>
       <sub>Russian-first block puzzle with instant rounds.</sub><br>
       <a href="https://playblockgame.ru">site</a> · <a href="https://github.com/ivanlukichev/PlayBlockGame">GitHub</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://word-chain-game.com"><img src="https://raw.githubusercontent.com/ivanlukichev/Word-Chain-Game/main/assets/preview.svg" alt="Word Chain Game preview"></a><br>
       <strong>Word Chain Game</strong><br>
       <sub>Vocabulary game where each word starts with the last letter of the previous one.</sub><br>
       <a href="https://word-chain-game.com">site</a> · <a href="https://github.com/ivanlukichev/Word-Chain-Game">GitHub</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://goroda-na.ru"><img src="https://raw.githubusercontent.com/ivanlukichev/Goroda-na/main/assets/preview.svg" alt="Goroda preview"></a><br>
       <strong>Goroda</strong><br>
       <sub>Classic city-chain game blending language and geography.</sub><br>
       <a href="https://goroda-na.ru">site</a> · <a href="https://github.com/ivanlukichev/Goroda-na">GitHub</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://играть-пасьянс.рф"><img src="https://raw.githubusercontent.com/ivanlukichev/-/main/assets/preview.svg" alt="Solitaire preview"></a><br>
       <strong>Solitaire</strong><br>
