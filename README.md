@@ -133,56 +133,56 @@ Browser games built for quick play sessions.
       <sub>Classic browser solitaire for quick relaxing sessions.</sub><br>
       <a href="https://играть-пасьянс.рф">site</a> · <a href="https://github.com/ivanlukichev/-">GitHub</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://крестики-нолики.рф"><img src="https://raw.githubusercontent.com/ivanlukichev/---/main/assets/preview.svg" alt="Tic-Tac-Toe preview"></a><br>
       <strong>Tic-Tac-Toe</strong><br>
       <sub>Quick classic browser game with instant casual play.</sub><br>
       <a href="https://крестики-нолики.рф">site</a> · <a href="https://github.com/ivanlukichev/---">GitHub</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://sudoku-play.org/"><img src="https://raw.githubusercontent.com/ivanlukichev/Sudoku-Play/main/assets/preview.svg" alt="Sudoku Play preview"></a><br>
       <strong>Sudoku Play</strong><br>
       <sub>Classic, daily, and kids Sudoku in a clean browser-first format.</sub><br>
       <a href="https://sudoku-play.org/">site</a> · <a href="https://github.com/ivanlukichev/Sudoku-Play">GitHub</a> · <a href="https://apps.apple.com/app/id6763089363">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.justsudoku">Google Play</a> · <a href="https://apps.apple.com/app/id6764041492">Kids App</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.kidssudoku">Kids Google Play</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://playmathpuzzles.com/"><img src="https://raw.githubusercontent.com/ivanlukichev/PlayMathPuzzles/main/assets/preview.svg" alt="PlayMathPuzzles preview"></a><br>
       <strong>PlayMathPuzzles</strong><br>
       <sub>Logic-driven number crosswords and math puzzle layouts.</sub><br>
       <a href="https://playmathpuzzles.com/">site</a> · <a href="https://github.com/ivanlukichev/PlayMathPuzzles">GitHub</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://slova-game.ru/"><img src="https://raw.githubusercontent.com/ivanlukichev/SlovaGame/main/assets/preview.svg" alt="Slova Game preview"></a><br>
       <strong>Слова из Слова</strong><br>
       <sub>Russian word game built around one base word and many hidden combinations.</sub><br>
       <a href="https://slova-game.ru/">site</a> · <a href="https://github.com/ivanlukichev/SlovaGame">GitHub</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://calcsprint.com"><img src="https://raw.githubusercontent.com/ivanlukichev/CalcSprint/main/assets/preview.svg" alt="CalcSprint preview"></a><br>
       <strong>CalcSprint</strong><br>
       <sub>Fast mental math drills built for daily repetition.</sub><br>
       <a href="https://calcsprint.com">site</a> · <a href="https://github.com/ivanlukichev/CalcSprint">GitHub</a> · <a href="https://apps.apple.com/app/id6763547636">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.calcsprint">Google Play</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://numberhuntgame.com/"><img src="https://raw.githubusercontent.com/ivanlukichev/numberhuntgame/main/assets/preview.svg" alt="Number Hunt preview"></a><br>
       <strong>Number Hunt</strong><br>
       <sub>Speed-and-focus game for spotting numbers in sequence.</sub><br>
       <a href="https://numberhuntgame.com/">site</a> · <a href="https://github.com/ivanlukichev/numberhuntgame">GitHub</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://nonograms.pics/"><img src="https://raw.githubusercontent.com/ivanlukichev/nonograms.pics_public/main/assets/preview.svg" alt="Nonograms.pics preview"></a><br>
       <strong>Nonograms.pics</strong><br>
       <sub>Daily nonograms, picross puzzles, categories, and beginner guides.</sub><br>
       <a href="https://nonograms.pics/">site</a> · <a href="https://github.com/ivanlukichev/nonograms.pics_public">GitHub</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://skillsudoku.com/"><img src="https://raw.githubusercontent.com/ivanlukichev/skillsudoku_public/main/assets/preview.jpg" alt="SkillSudoku preview" width="100%" height="210"></a><br>
       <strong>SkillSudoku</strong><br>
