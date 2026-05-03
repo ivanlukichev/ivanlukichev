@@ -75,6 +75,20 @@ A collection of small independent web products and experiments.
       <a href="https://morsecodes.app/">site</a> · <a href="https://apps.apple.com/app/id6764839522">App Store</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://beadart.app/"><img src="assets/beadart-preview.png" alt="BeadArt app preview"></a><br>
+      <strong>BeadArt</strong><br>
+      <sub>Relaxing bead mosaic app with colorful numbered grids and calm picture-building flow.</sub><br>
+      <a href="https://beadart.app/">site</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://pixelpaintapp.com/"><img src="assets/pixelpaint-preview.png" alt="PixelPaint app preview"></a><br>
+      <strong>PixelPaint</strong><br>
+      <sub>Photo-to-pixel-art coloring app for relaxed offline painting and playful pixel puzzles.</sub><br>
+      <a href="https://pixelpaintapp.com/">site</a>
+    </td>
+  </tr>
 </table>
 
 ---
