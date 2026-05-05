@@ -89,7 +89,7 @@ Browser games built for quick play sessions.
       <a href="https://beadart.app/"><img src="assets/beadart-preview.png" alt="BeadArt app preview"></a><br>
       <strong>BeadArt</strong><br>
       <sub>Relaxing bead mosaic game with colorful numbered grids and calm picture-building flow.</sub><br>
-      <a href="https://beadart.app/">site</a>
+      <a href="https://beadart.app/">site</a> · <a href="https://apps.apple.com/app/id6766010170">App Store</a>
     </td>
   </tr>
   <tr>
