@@ -83,7 +83,7 @@ Browser games built for quick play sessions.
       <a href="https://colouringapp.com/"><img src="https://colouringapp.com/assets/og-image.jpg" alt="Colorful Hearts preview"></a><br>
       <strong>Colorful Hearts</strong><br>
       <sub>Private offline coloring game for children and families.</sub><br>
-      <a href="https://colouringapp.com/">site</a>
+      <a href="https://colouringapp.com/">site</a> · <a href="https://apps.apple.com/app/id6764305398">App Store</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://beadart.app/"><img src="assets/beadart-preview.png" alt="BeadArt app preview"></a><br>
