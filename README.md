@@ -68,6 +68,12 @@ A collection of small independent web products and experiments.
       <sub>Offline Morse encoder, decoder, learning, and signal app for seven alphabets.</sub><br>
       <a href="https://morsecodes.app/">site</a> · <a href="https://apps.apple.com/app/id6764839522">App Store</a>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://wise-husband.com/"><img src="https://wise-husband.com/og-image.png" alt="Wise Husband preview"></a><br>
+      <strong>Wise Husband</strong><br>
+      <sub>Cycle calendar for husbands — one calm screen with a daily line you can read half-asleep.</sub><br>
+      <a href="https://wise-husband.com/">site</a>
+    </td>
   </tr>
 </table>
 
