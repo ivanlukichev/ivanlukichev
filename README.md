@@ -75,6 +75,15 @@ A collection of small independent web products and experiments.
       <a href="https://wise-husband.com/">site</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/app/id6767616413"><img src="assets/howloud-preview.png" alt="HowLoud Decibel Meter preview"></a><br>
+      <strong>HowLoud</strong><br>
+      <sub>Clean, fast iOS decibel meter for everyday noise checks. Pairs with the browser sound meter on PickHeadphones.</sub><br>
+      <a href="https://pickheadphones.com/tools/sound-meter/">site</a> · <a href="https://apps.apple.com/app/id6767616413">App Store</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
