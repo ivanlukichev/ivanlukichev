@@ -72,7 +72,7 @@ A collection of small independent web products and experiments.
       <a href="https://wise-husband.com/"><img src="assets/wise-husband-preview.png" alt="Wise Husband preview"></a><br>
       <strong>Wise Husband</strong><br>
       <sub>Cycle calendar for husbands — one calm screen with a daily line you can read half-asleep.</sub><br>
-      <a href="https://wise-husband.com/">site</a>
+      <a href="https://wise-husband.com/">site</a> · <a href="https://apps.apple.com/app/id6767145321">App Store</a>
     </td>
   </tr>
   <tr>
