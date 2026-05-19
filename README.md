@@ -23,7 +23,7 @@ Browser-based jigsaw puzzle platform.
 
 | Product | Website | Apps |
 | --- | --- | --- |
-| PuzzleFree | https://puzzlefree.game | [App Store](https://apps.apple.com/app/id6751572041) · [Google Play](https://play.google.com/store/apps/details?id=com.enidev.puzzlefree) |
+| PuzzleFree | https://puzzlefree.game | [App Store](https://apps.apple.com/id6751572041) · [Google Play](https://play.google.com/store/apps/details?id=com.enidev.puzzlefree) |
 | Kids Puzzle | https://kids.puzzlefree.game | [App Store](https://apps.apple.com/app/id6761406530) · [Google Play](https://play.google.com/store/apps/details?id=com.enidev.puzzlefreekids) |
 
 ---
@@ -204,6 +204,15 @@ Browser games built for quick play sessions.
       <sub>Sudoku project with a guide layer and search-friendly content hub.</sub><br>
       <a href="https://skillsudoku.com/">site</a> · <a href="https://github.com/ivanlukichev/skillsudoku-landing">GitHub</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://slidepuzzle.app/"><img src="assets/slidepuzzle-preview.png" alt="Slide Puzzle preview"></a><br>
+      <strong>Slide Puzzle</strong><br>
+      <sub>Modern take on the classic 15 puzzle — slide tiles to rebuild the image on 3×3, 4×4, 5×5, and 6×6 boards.</sub><br>
+      <a href="https://slidepuzzle.app/">site</a> · <a href="https://apps.apple.com/app/id6770205599">App Store</a>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
