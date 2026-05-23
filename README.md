@@ -49,17 +49,12 @@ A collection of small independent web products and experiments.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://pickheadphones.com"><img src="https://raw.githubusercontent.com/ivanlukichev/pickheadphones-landing/main/assets/preview.svg" alt="PickHeadphones preview"></a><br>
-      <strong>PickHeadphones</strong><br>
-      <sub>Simple browser-based audio tests for headphones and speakers.</sub><br>
-      <a href="https://pickheadphones.com">site</a> · <a href="https://github.com/ivanlukichev/pickheadphones-landing">GitHub</a>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/ivanlukichev/spa-seo-audit-landing"><img src="https://raw.githubusercontent.com/ivanlukichev/spa-seo-audit-landing/main/extension/readme-banner-wide.png" alt="SPA SEO Page Audit preview"></a><br>
       <strong>SPA: SEO Page Audit</strong><br>
       <sub>Browser extension for quick local on-page SEO checks and popup audits.</sub><br>
       <a href="https://github.com/ivanlukichev/spa-seo-audit-landing">GitHub</a>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
   <tr>
     <td width="50%" valign="top">
