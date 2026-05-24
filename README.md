@@ -52,7 +52,7 @@ A collection of small independent web products and experiments.
       <a href="https://github.com/ivanlukichev/spa-seo-audit-landing"><img src="https://raw.githubusercontent.com/ivanlukichev/spa-seo-audit-landing/main/extension/readme-banner-wide.png" alt="SPA SEO Page Audit preview"></a><br>
       <strong>SPA: SEO Page Audit</strong><br>
       <sub>Browser extension for quick local on-page SEO checks and popup audits.</sub><br>
-      <a href="https://github.com/ivanlukichev/spa-seo-audit-landing">GitHub</a>
+      <a href="https://apps.apple.com/app/spa-seo-page-audit/id6761405738">App Store</a> · <a href="https://github.com/ivanlukichev/spa-seo-audit-landing">GitHub</a>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
@@ -223,7 +223,7 @@ Browser games built for quick play sessions.
 
 ### 🚀 Extensions & Apps
 
-Chrome Web Store · [Firefox Add-ons](https://addons.mozilla.org/firefox/user/19809108/) · [Edge Add-ons](https://microsoftedge.microsoft.com/addons/search?developer=Ivan%20Lukichev) · App Store · Google Play  
+Chrome Web Store · [Firefox Add-ons](https://addons.mozilla.org/firefox/user/19809108/) · [Edge Add-ons](https://microsoftedge.microsoft.com/addons/search?developer=Ivan%20Lukichev) · [App Store](https://apps.apple.com/developer/lukichev-ivan/id1889426687) · Google Play  
 
 ---
 
