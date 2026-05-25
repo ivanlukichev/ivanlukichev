@@ -61,7 +61,7 @@ A collection of small independent web products and experiments.
       <a href="https://morsecodes.app/"><img src="assets/morsecodes-preview.svg" alt="Morse Code app preview"></a><br>
       <strong>Morse Code</strong><br>
       <sub>Offline Morse encoder, decoder, learning, and signal app for seven alphabets.</sub><br>
-      <a href="https://morsecodes.app/">site</a> · <a href="https://apps.apple.com/app/id6764839522">App Store</a>
+      <a href="https://morsecodes.app/">site</a> · <a href="https://apps.apple.com/app/id6764839522">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.morse">Google Play</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://wise-husband.com/"><img src="assets/wise-husband-preview.png" alt="Wise Husband preview"></a><br>
