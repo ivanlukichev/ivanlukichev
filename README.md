@@ -219,6 +219,15 @@ Browser games built for quick play sessions.
       <a href="https://blockspuzzle.app/">site</a> · <a href="https://apps.apple.com/app/id6762732976">App Store</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://easyjigsawpuzzles.com/"><img src="assets/easyjigsaw-preview.png" alt="Easy Jigsaw Puzzles preview"></a><br>
+      <strong>Easy Jigsaw Puzzles</strong><br>
+      <sub>Free browser jigsaw puzzles across ten themes, 4 to 144 pieces. iOS app in review.</sub><br>
+      <a href="https://easyjigsawpuzzles.com/">site</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ### 🚀 Extensions & Apps
