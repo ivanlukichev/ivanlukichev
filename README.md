@@ -54,7 +54,12 @@ A collection of small independent web products and experiments.
       <sub>Browser extension for quick local on-page SEO checks and popup audits.</sub><br>
       <a href="https://apps.apple.com/app/spa-seo-page-audit/id6761405738">App Store</a> · <a href="https://github.com/ivanlukichev/spa-seo-audit-landing">GitHub</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://clockwidgets.com/"><img src="assets/clockwidgets-preview.png" alt="Clock Widgets preview"></a><br>
+      <strong>Clock Widgets</strong><br>
+      <sub>Flip and digital clock widgets for iPhone and iPad — Home Screen and Lock Screen styles you can match to your mood.</sub><br>
+      <a href="https://clockwidgets.com/">site</a> · <a href="https://apps.apple.com/app/id6772222315">App Store</a>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
