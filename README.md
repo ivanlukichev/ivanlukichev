@@ -221,7 +221,7 @@ Browser games built for quick play sessions.
       <a href="https://blockspuzzle.app/"><img src="assets/flowblocks-preview.png" alt="FlowBlocks preview"></a><br>
       <strong>FlowBlocks</strong><br>
       <sub>Minimalist block puzzle with smooth gameplay, satisfying combos, and a calm visual style.</sub><br>
-      <a href="https://blockspuzzle.app/">site</a> · <a href="https://apps.apple.com/app/id6762732976">App Store</a>
+      <a href="https://blockspuzzle.app/">site</a> · <a href="https://apps.apple.com/app/id6762732976">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.flowblocks">Google Play</a>
     </td>
   </tr>
   <tr>
