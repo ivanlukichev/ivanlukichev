@@ -229,7 +229,7 @@ Browser games built for quick play sessions.
       <a href="https://easyjigsawpuzzles.com/"><img src="assets/easyjigsaw-preview.png" alt="Easy Jigsaw Puzzles preview"></a><br>
       <strong>Easy Jigsaw Puzzles</strong><br>
       <sub>Free browser jigsaw puzzles across ten themes, 4 to 144 pieces, with a native iOS companion app.</sub><br>
-      <a href="https://easyjigsawpuzzles.com/">site</a> · <a href="https://apps.apple.com/app/id6772980224">App Store</a>
+      <a href="https://easyjigsawpuzzles.com/">site</a> · <a href="https://apps.apple.com/app/id6772980224">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.easypuzzle">Google Play</a>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
