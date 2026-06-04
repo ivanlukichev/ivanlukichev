@@ -231,7 +231,12 @@ Browser games built for quick play sessions.
       <sub>Free browser jigsaw puzzles across ten themes, 4 to 144 pieces, with a native iOS companion app.</sub><br>
       <a href="https://easyjigsawpuzzles.com/">site</a> · <a href="https://apps.apple.com/app/id6772980224">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.easypuzzle">Google Play</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://wormescape.com/"><img src="assets/wormescape-preview.png" alt="Worm Escape preview"></a><br>
+      <strong>Worm Escape</strong><br>
+      <sub>Calm rope-pulling puzzle — pull each little critter free across 100 free levels. iOS app in review.</sub><br>
+      <a href="https://wormescape.com/">site</a>
+    </td>
   </tr>
 </table>
 
