@@ -145,7 +145,7 @@ Browser games built for quick play sessions.
       <a href="https://goroda-na.ru"><img src="https://raw.githubusercontent.com/ivanlukichev/gorodana-public/main/assets/preview.svg" alt="Goroda preview"></a><br>
       <strong>Goroda</strong><br>
       <sub>Classic city-chain game blending language and geography.</sub><br>
-      <a href="https://goroda-na.ru">site</a> · <a href="https://apps.apple.com/app/id6769050447">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.goroda">Google Play</a> · <a href="https://github.com/ivanlukichev/gorodana-public">GitHub</a>
+      <a href="https://goroda-na.ru">site</a> · <a href="https://apps.apple.com/app/id6769050447">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.goroda">Google Play</a> · <a href="https://t.me/igra_goroda_online_bot">Telegram</a> · <a href="https://github.com/ivanlukichev/gorodana-public">GitHub</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://играть-пасьянс.рф"><img src="https://raw.githubusercontent.com/ivanlukichev/solitaire-landing/main/assets/preview.svg" alt="Solitaire preview"></a><br>
