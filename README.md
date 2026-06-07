@@ -120,10 +120,10 @@ Browser games built for quick play sessions.
       <a href="https://pixelpaintapp.com/">site</a> · <a href="https://apps.apple.com/app/id6765738643">App Store</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://blockplaygame.com"><img src="https://raw.githubusercontent.com/ivanlukichev/playblockgame-en-landing/main/assets/preview.svg" alt="BlockPlay preview"></a><br>
-      <strong>BlockPlay</strong><br>
-      <sub>Clean browser block puzzle for fast score runs.</sub><br>
-      <a href="https://blockplaygame.com">site</a> · <a href="https://github.com/ivanlukichev/playblockgame-en-landing">GitHub</a>
+      <a href="https://blockplaygame.com"><img src="https://raw.githubusercontent.com/ivanlukichev/playblockgame-en-landing/main/assets/preview.svg" alt="Block Play Game preview"></a><br>
+      <strong>Block Play Game</strong><br>
+      <sub>Minimalist block puzzle with smooth gameplay, satisfying combos, and a calm visual style — on web, iOS, and Android.</sub><br>
+      <a href="https://blockplaygame.com">site</a> · <a href="https://apps.apple.com/app/id6762732976">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.flowblocks">Google Play</a> · <a href="https://github.com/ivanlukichev/playblockgame-en-landing">GitHub</a>
     </td>
   </tr>
   <tr>
@@ -217,12 +217,7 @@ Browser games built for quick play sessions.
       <sub>Modern take on the classic 15 puzzle — slide tiles to rebuild the image on 3×3, 4×4, 5×5, and 6×6 boards.</sub><br>
       <a href="https://slidepuzzle.app/">site</a> · <a href="https://apps.apple.com/app/id6770205599">App Store</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://blockspuzzle.app/"><img src="assets/flowblocks-preview.png" alt="FlowBlocks preview"></a><br>
-      <strong>FlowBlocks</strong><br>
-      <sub>Minimalist block puzzle with smooth gameplay, satisfying combos, and a calm visual style.</sub><br>
-      <a href="https://blockspuzzle.app/">site</a> · <a href="https://apps.apple.com/app/id6762732976">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.flowblocks">Google Play</a>
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
   <tr>
     <td width="50%" valign="top">
