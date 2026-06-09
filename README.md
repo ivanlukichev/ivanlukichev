@@ -137,7 +137,7 @@ Browser games built for quick play sessions.
       <a href="https://word-chain-game.com"><img src="https://raw.githubusercontent.com/ivanlukichev/wordchain-landing/main/assets/preview.svg" alt="Word Chain Chat preview"></a><br>
       <strong>Word Chain Chat</strong><br>
       <sub>Live word duels by category — quick chat-style rounds where players take turns naming words.</sub><br>
-      <a href="https://word-chain-game.com">site</a> · <a href="https://apps.apple.com/app/id6775745201">App Store</a> · <a href="https://github.com/ivanlukichev/wordchain-landing">GitHub</a>
+      <a href="https://word-chain-game.com">site</a> · <a href="https://apps.apple.com/app/id6775745201">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.wordchain">Google Play</a> · <a href="https://github.com/ivanlukichev/wordchain-landing">GitHub</a>
     </td>
   </tr>
   <tr>
