@@ -217,7 +217,12 @@ Browser games built for quick play sessions.
       <sub>Modern take on the classic 15 puzzle — slide tiles to rebuild the image on 3×3, 4×4, 5×5, and 6×6 boards.</sub><br>
       <a href="https://slidepuzzle.app/">site</a> · <a href="https://apps.apple.com/app/id6770205599">App Store</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://otkritkaonline.com/"><img src="https://otkritkaonline.com/og-default.jpg" alt="ОткрыткаОнлайн preview"></a><br>
+      <strong>ОткрыткаОнлайн</strong><br>
+      <sub>Free generator of festive Russian-style postcards — pick a background, write a phrase, share the image.</sub><br>
+      <a href="https://otkritkaonline.com/">site</a>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
