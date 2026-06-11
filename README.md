@@ -215,7 +215,7 @@ Browser games built for quick play sessions.
       <a href="https://slidepuzzle.app/"><img src="assets/slidepuzzle-preview.png" alt="Slide Puzzle preview"></a><br>
       <strong>Slide Puzzle</strong><br>
       <sub>Modern take on the classic 15 puzzle — slide tiles to rebuild the image on 3×3, 4×4, 5×5, and 6×6 boards.</sub><br>
-      <a href="https://slidepuzzle.app/">site</a> · <a href="https://apps.apple.com/app/id6770205599">App Store</a>
+      <a href="https://slidepuzzle.app/">site</a> · <a href="https://apps.apple.com/app/id6770205599">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.slidepuzzle">Google Play</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://otkritkaonline.com/"><img src="https://otkritkaonline.com/og-default.jpg" alt="ОткрыткаОнлайн preview"></a><br>
