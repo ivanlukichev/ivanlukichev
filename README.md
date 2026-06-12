@@ -245,7 +245,12 @@ Browser games built for quick play sessions.
       <sub>Quiet crossword puzzle — drag letters on a circular wheel to spell words and fill the grid. 460 hand-crafted levels.</sub><br>
       <a href="https://wordspin.app/">site</a> · <a href="https://apps.apple.com/app/id6774131462">App Store</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://watchfacekit.com/"><img src="assets/watchfacekit-preview.jpg" alt="WatchFace Kit preview"></a><br>
+      <strong>WatchFace Kit</strong><br>
+      <sub>Curated watch faces for Garmin Connect IQ — high-craft displays with live data, tuned for battery, ready to install.</sub><br>
+      <a href="https://watchfacekit.com/">site</a>
+    </td>
   </tr>
 </table>
 
