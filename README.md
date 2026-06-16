@@ -80,7 +80,7 @@ A collection of small independent web products and experiments.
       <a href="https://apps.apple.com/app/id6767616413"><img src="assets/howloud-preview.png" alt="HowLoud Decibel Meter preview"></a><br>
       <strong>HowLoud</strong><br>
       <sub>Clean, fast iOS decibel meter for everyday noise checks. Pairs with the browser sound meter on PickHeadphones.</sub><br>
-      <a href="https://pickheadphones.com/tools/sound-meter/">site</a> · <a href="https://apps.apple.com/app/id6767616413">App Store</a>
+      <a href="https://pickheadphones.com/tools/sound-meter/">site</a> · <a href="https://apps.apple.com/app/id6767616413">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.decibelmeter">Google Play</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://apps.apple.com/app/id6771039438"><img src="assets/headphone-test-preview.png" alt="Headphone Test preview"></a><br>
