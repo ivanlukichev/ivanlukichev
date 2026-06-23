@@ -235,7 +235,7 @@ Browser games built for quick play sessions.
       <a href="https://pullme.app/"><img src="assets/pullme-preview.png" alt="Pull Me preview"></a><br>
       <strong>Pull Me</strong><br>
       <sub>Freedom for the worms — pull each little critter free across 100 free levels.</sub><br>
-      <a href="https://pullme.app/">site</a> · <a href="https://apps.apple.com/app/id6775017077">App Store</a>
+      <a href="https://pullme.app/">site</a> · <a href="https://apps.apple.com/app/id6775017077">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.ropes">Google Play</a>
     </td>
   </tr>
   <tr>
