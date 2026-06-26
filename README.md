@@ -24,7 +24,7 @@ Browser-based jigsaw puzzle platform.
 | Product | Website | Apps |
 | --- | --- | --- |
 | PuzzleFree | https://puzzlefree.game | [App Store](https://apps.apple.com/id6751572041) · [Google Play](https://play.google.com/store/apps/details?id=com.enidev.puzzlefree) |
-| Kids Puzzle | https://kids.puzzlefree.game | [App Store](https://apps.apple.com/app/id6761406530) · [Google Play](https://play.google.com/store/apps/details?id=com.enidev.puzzlefreekids) |
+| Kids Puzzle | https://puzzlefree.game/kids/ | [App Store](https://apps.apple.com/app/id6761406530) · [Google Play](https://play.google.com/store/apps/details?id=com.enidev.puzzlefreekids) |
 
 ---
 
@@ -165,7 +165,7 @@ Browser games built for quick play sessions.
       <a href="https://sudoku-play.org/"><img src="https://raw.githubusercontent.com/ivanlukichev/sudokuplay-landing/main/assets/preview.svg" alt="Sudoku Play preview"></a><br>
       <strong>Sudoku Play</strong><br>
       <sub>Classic, daily, and kids Sudoku in a clean browser-first format.</sub><br>
-      <a href="https://sudoku-play.org/">site</a> · <a href="https://github.com/ivanlukichev/sudokuplay-landing">GitHub</a> · <a href="https://apps.apple.com/app/id6763089363">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.justsudoku">Google Play</a> · <a href="https://apps.apple.com/app/id6764041492">Kids App</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.kidssudoku">Kids Google Play</a>
+      <a href="https://sudoku-play.org/">site</a> · <a href="https://github.com/ivanlukichev/sudokuplay-landing">GitHub</a> · <a href="https://apps.apple.com/app/id6763089363">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.justsudoku">Google Play</a> · <a href="https://sudoku-play.org/sudoku-for-kids/">Kids site</a> · <a href="https://apps.apple.com/app/id6764041492">Kids App</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.kidssudoku">Kids Google Play</a>
     </td>
   </tr>
   <tr>
