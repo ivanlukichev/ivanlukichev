@@ -257,7 +257,7 @@ Browser games built for quick play sessions.
       <a href="https://arrows-puzzle.com/"><img src="assets/arrows-preview.jpg" alt="Arrows Puzzle preview"></a><br>
       <strong>Arrows Puzzle</strong><br>
       <sub>Calm neon logic puzzle — tap a glowing arrow and it glides off the edge, but only when the path ahead is clear.</sub><br>
-      <a href="https://arrows-puzzle.com/">site</a> · <a href="https://apps.apple.com/app/id6777918234">App Store</a>
+      <a href="https://arrows-puzzle.com/">site</a> · <a href="https://apps.apple.com/app/id6777918234">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.puzzlearrow">Google Play</a>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
