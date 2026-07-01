@@ -58,7 +58,7 @@ A collection of small independent web products and experiments.
       <a href="https://clockwidgets.com/"><img src="assets/clockwidgets-preview.png" alt="Clock Widgets preview"></a><br>
       <strong>Clock Widgets</strong><br>
       <sub>Flip and digital clock widgets for iPhone and iPad — Home Screen and Lock Screen styles you can match to your mood.</sub><br>
-      <a href="https://clockwidgets.com/">site</a> · <a href="https://apps.apple.com/app/id6772222315">App Store</a>
+      <a href="https://clockwidgets.com/">site</a> · <a href="https://apps.apple.com/app/id6772222315">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.clockwidgets">Google Play</a>
     </td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ A collection of small independent web products and experiments.
       <a href="https://wise-husband.com/"><img src="assets/wise-husband-preview.png" alt="Wise Husband preview"></a><br>
       <strong>Wise Husband</strong><br>
       <sub>Cycle calendar for husbands — one calm screen with a daily line you can read half-asleep.</sub><br>
-      <a href="https://wise-husband.com/">site</a> · <a href="https://apps.apple.com/app/id6767145321">App Store</a>
+      <a href="https://wise-husband.com/">site</a> · <a href="https://apps.apple.com/app/id6767145321">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.wisehusband">Google Play</a>
     </td>
   </tr>
   <tr>
