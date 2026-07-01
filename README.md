@@ -259,7 +259,12 @@ Browser games built for quick play sessions.
       <sub>Calm neon logic puzzle — tap a glowing arrow and it glides off the edge, but only when the path ahead is clear.</sub><br>
       <a href="https://arrows-puzzle.com/">site</a> · <a href="https://apps.apple.com/app/id6777918234">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.puzzlearrow">Google Play</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://coffeeline.app/"><img src="assets/coffeeline-preview.jpg" alt="CoffeeLine preview"></a><br>
+      <strong>CoffeeLine</strong><br>
+      <sub>A cozy barista arcade — orders ride down the ticket line, pull a ticket, open the right tap, stop at the perfect level. No rush, no nervous timers.</sub><br>
+      <a href="https://coffeeline.app/">site</a> · <a href="https://apps.apple.com/app/id6784132379">App Store</a>
+    </td>
   </tr>
 </table>
 
