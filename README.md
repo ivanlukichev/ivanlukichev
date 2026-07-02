@@ -117,7 +117,7 @@ Browser games built for quick play sessions.
       <a href="https://pixelpaintapp.com/"><img src="assets/pixelpaint-preview.png" alt="PixelPaint app preview"></a><br>
       <strong>PixelPaint</strong><br>
       <sub>Photo-to-pixel-art coloring game for relaxed offline painting and playful pixel puzzles.</sub><br>
-      <a href="https://pixelpaintapp.com/">site</a> · <a href="https://apps.apple.com/app/id6765738643">App Store</a>
+      <a href="https://pixelpaintapp.com/">site</a> · <a href="https://apps.apple.com/app/id6765738643">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.pixelcolor">Google Play</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://blockplaygame.com"><img src="https://raw.githubusercontent.com/ivanlukichev/playblockgame-en-landing/main/assets/preview.svg" alt="Block Play Game preview"></a><br>
