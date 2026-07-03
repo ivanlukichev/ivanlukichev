@@ -187,7 +187,7 @@ Browser games built for quick play sessions.
       <a href="https://calcsprint.com"><img src="https://raw.githubusercontent.com/ivanlukichev/calcsprint-landing/main/assets/preview.svg" alt="CalcSprint preview"></a><br>
       <strong>CalcSprint</strong><br>
       <sub>Fast mental math drills built for daily repetition.</sub><br>
-      <a href="https://calcsprint.com">site</a> · <a href="https://github.com/ivanlukichev/calcsprint-landing">GitHub</a> · <a href="https://apps.apple.com/app/id6763547636">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.calcsprint">Google Play</a>
+      <a href="https://calcsprint.com">site</a> · <a href="https://github.com/ivanlukichev/calcsprint-landing">GitHub</a> · <a href="https://apps.apple.com/app/id6763547636">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.calcsprint">Google Play</a> · <a href="https://calcsprint.com/kids/">Kids</a> · <a href="https://apps.apple.com/app/id6784570701">Kids App Store</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://numberhuntgame.com/"><img src="https://raw.githubusercontent.com/ivanlukichev/numberhunt-landing/main/assets/preview.svg" alt="Number Hunt preview"></a><br>
