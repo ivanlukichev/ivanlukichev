@@ -266,6 +266,15 @@ Browser games built for quick play sessions.
       <a href="https://coffeeline.app/">site</a> · <a href="https://apps.apple.com/app/id6784132379">App Store</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://favoritelullaby.com/"><img src="assets/lullaby-preview.jpg" alt="Lullaby preview"></a><br>
+      <strong>Lullaby</strong><br>
+      <sub>A gentle lullaby that plays all night — pick a song, turn on repeat, and let the fade-out and sleep timer take care of the rest.</sub><br>
+      <a href="https://favoritelullaby.com/">site</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ### 🚀 Extensions & Apps
