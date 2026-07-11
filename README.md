@@ -273,7 +273,12 @@ Browser games built for quick play sessions.
       <sub>A gentle lullaby that plays all night — pick a song, turn on repeat, and let the fade-out and sleep timer take care of the rest.</sub><br>
       <a href="https://favoritelullaby.com/">site</a> · <a href="https://apps.apple.com/app/id6787460650">App Store</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://geoquizzes.app/"><img src="assets/geoquizzes-preview.png" alt="GeoQuizzes preview"></a><br>
+      <strong>GeoQuizzes</strong><br>
+      <sub>A calm geography quiz — flags, capitals, and landmarks at your own pace. Offline, no ads, no subscriptions; Europe free, unlock the world once.</sub><br>
+      <a href="https://geoquizzes.app/">site</a> · <a href="https://apps.apple.com/app/id6789140184">App Store</a>
+    </td>
   </tr>
 </table>
 
