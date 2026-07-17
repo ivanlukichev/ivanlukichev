@@ -277,7 +277,7 @@ Browser games built for quick play sessions.
       <a href="https://geoquizzes.app/"><img src="assets/geoquizzes-preview.jpg" alt="GeoQuizzes preview"></a><br>
       <strong>GeoQuizzes</strong><br>
       <sub>A calm geography quiz — flags, capitals, and landmarks at your own pace. Offline, no ads, no subscriptions; Europe free, unlock the world once.</sub><br>
-      <a href="https://geoquizzes.app/">site</a> · <a href="https://apps.apple.com/app/id6789140184">App Store</a>
+      <a href="https://geoquizzes.app/">site</a> · <a href="https://apps.apple.com/app/id6789140184">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.geoworld">Google Play</a>
     </td>
   </tr>
 </table>
