@@ -151,7 +151,7 @@ Browser games built for quick play sessions.
       <a href="https://играть-пасьянс.рф"><img src="https://raw.githubusercontent.com/ivanlukichev/solitaire-landing/main/assets/preview.svg" alt="Solitaire preview"></a><br>
       <strong>Solitaire</strong><br>
       <sub>Classic browser solitaire for quick relaxing sessions.</sub><br>
-      <a href="https://играть-пасьянс.рф">site</a> · <a href="https://github.com/ivanlukichev/solitaire-landing">GitHub</a>
+      <a href="https://играть-пасьянс.рф">site</a> · <a href="https://github.com/ivanlukichev/solitaire-landing">GitHub</a> · <a href="https://dailysolitaires.com/">International site</a>
     </td>
   </tr>
   <tr>
@@ -159,7 +159,7 @@ Browser games built for quick play sessions.
       <a href="https://крестики-нолики.рф"><img src="https://raw.githubusercontent.com/ivanlukichev/tictactoe-landing/main/assets/preview.svg" alt="Tic-Tac-Toe preview"></a><br>
       <strong>Tic-Tac-Toe</strong><br>
       <sub>Quick classic browser game with instant casual play.</sub><br>
-      <a href="https://крестики-нолики.рф">site</a> · <a href="https://github.com/ivanlukichev/tictactoe-landing">GitHub</a>
+      <a href="https://крестики-нолики.рф">site</a> · <a href="https://github.com/ivanlukichev/tictactoe-landing">GitHub</a> · <a href="https://go-xo.com/">International site</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://sudoku-play.org/"><img src="https://raw.githubusercontent.com/ivanlukichev/sudokuplay-landing/main/assets/preview.svg" alt="Sudoku Play preview"></a><br>
@@ -279,6 +279,15 @@ Browser games built for quick play sessions.
       <sub>A calm geography quiz — flags, capitals, and landmarks at your own pace. Offline, no ads, no subscriptions; Europe free, unlock the world once.</sub><br>
       <a href="https://geoquizzes.app/">site</a> · <a href="https://apps.apple.com/app/id6789140184">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.geoworld">Google Play</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mushtrail.com/"><img src="assets/mushtrail-preview.jpg" alt="MushTrail preview"></a><br>
+      <strong>MushTrail</strong><br>
+      <sub>Offline GPS for mushroom pickers — remembers where you entered the forest, records your path, and shows a one-tap arrow back home even without signal.</sub><br>
+      <a href="https://mushtrail.com/">site</a>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
