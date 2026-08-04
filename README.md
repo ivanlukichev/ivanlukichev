@@ -285,7 +285,7 @@ Browser games built for quick play sessions.
       <a href="https://mushtrail.com/"><img src="assets/mushtrail-preview.jpg" alt="MushTrail preview"></a><br>
       <strong>MushTrail</strong><br>
       <sub>Offline GPS for mushroom pickers — remembers where you entered the forest, records your path, and shows a one-tap arrow back home even without signal.</sub><br>
-      <a href="https://mushtrail.com/">site</a>
+      <a href="https://mushtrail.com/">site</a> · <a href="https://apps.apple.com/app/id6792751719">App Store</a>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
