@@ -290,7 +290,7 @@ Browser games built for quick play sessions.
     <td width="50%" valign="top">
       <a href="https://four-numbers.com/"><img src="assets/four-numbers-preview.jpg" alt="Four Numbers preview"></a><br>
       <strong>Four Numbers</strong><br>
-      <sub>60-second brain snack — combine four numbers with +, −, ×, ÷ to land on 24, or any target you pick up to 100. Tap the cards or type the whole expression; every puzzle is guaranteed solvable.</sub><br>
+      <sub>Quick arithmetic puzzle — combine four numbers with +, −, ×, ÷ to land on 24, or any target you pick up to 100. Tap the cards or type the whole expression; every puzzle is guaranteed solvable.</sub><br>
       <a href="https://four-numbers.com/">site</a>
     </td>
   </tr>
