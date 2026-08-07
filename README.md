@@ -288,10 +288,10 @@ Browser games built for quick play sessions.
       <a href="https://mushtrail.com/">site</a> · <a href="https://apps.apple.com/app/id6792751719">App Store</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://make24online.com/"><img src="assets/make24-preview.jpg" alt="Make24 preview"></a><br>
-      <strong>Make24</strong><br>
-      <sub>60-second brain snack — combine four numbers with +, −, ×, ÷ to land on 24. Tap the cards or type the whole expression; every puzzle is guaranteed solvable.</sub><br>
-      <a href="https://make24online.com/">site</a>
+      <a href="https://four-numbers.com/"><img src="assets/four-numbers-preview.jpg" alt="Four Numbers preview"></a><br>
+      <strong>Four Numbers</strong><br>
+      <sub>60-second brain snack — combine four numbers with +, −, ×, ÷ to land on 24, or any target you pick up to 100. Tap the cards or type the whole expression; every puzzle is guaranteed solvable.</sub><br>
+      <a href="https://four-numbers.com/">site</a>
     </td>
   </tr>
 </table>
