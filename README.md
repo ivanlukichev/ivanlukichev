@@ -301,7 +301,12 @@ Browser games built for quick play sessions.
       <sub>Native macOS text editor that opens before you let go of the keys — plain-text notes, syntax highlighting for 9 languages, no cloud, no account. Free beta, Apple silicon, macOS 14+.</sub><br>
       <a href="https://terseeditor.com/">site</a> · <a href="https://terseeditor.com/downloads/TerseEditor-0.1.0-beta.zip">Download for Mac</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://ivanlukichev.github.io/backupeject-landing/"><img src="assets/backupeject-preview.jpg" alt="BackupEject preview"></a><br>
+      <strong>BackupEject</strong><br>
+      <sub>macOS menu bar app that runs Time Machine automatically and safely ejects the external disk when the backup is done — grab your laptop and go. Free, macOS 14+, Apple silicon &amp; Intel.</sub><br>
+      <a href="https://ivanlukichev.github.io/backupeject-landing/">site</a> · <a href="https://github.com/ivanlukichev/backupeject-landing/releases/latest/download/BackupEject.dmg">Download for Mac</a> · <a href="https://github.com/ivanlukichev/backupeject-landing">GitHub</a>
+    </td>
   </tr>
 </table>
 
