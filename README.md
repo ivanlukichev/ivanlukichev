@@ -214,8 +214,8 @@ Browser games built for quick play sessions.
     <td width="50%" valign="top">
       <a href="https://slidepuzzle.app/"><img src="assets/slidepuzzle-preview.png" alt="Slide Puzzle preview"></a><br>
       <strong>Slide Puzzle</strong><br>
-      <sub>Modern take on the classic 15 puzzle — slide tiles to rebuild the image on 3×3, 4×4, 5×5, and 6×6 boards. Plus a companion solver app for any board.</sub><br>
-      <a href="https://slidepuzzle.app/">site</a> · <a href="https://apps.apple.com/app/id6770205599">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.slidepuzzle">Google Play</a> · <a href="https://apps.apple.com/app/id6799048857">Solver App Store</a>
+      <sub>Modern take on the classic 15 puzzle — slide tiles to rebuild the image on 3×3, 4×4, 5×5, and 6×6 boards.</sub><br>
+      <a href="https://slidepuzzle.app/">site</a> · <a href="https://apps.apple.com/app/id6770205599">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.slidepuzzle">Google Play</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://otkritkaonline.com/"><img src="https://otkritkaonline.com/og-default.jpg" alt="ОткрыткаОнлайн preview"></a><br>
@@ -307,6 +307,15 @@ Browser games built for quick play sessions.
       <sub>macOS menu bar app that runs Time Machine automatically and safely ejects the external disk when the backup is done — grab your laptop and go. Free, macOS 14+, Apple silicon &amp; Intel.</sub><br>
       <a href="https://ivanlukichev.github.io/backupeject-landing/">site</a> · <a href="https://github.com/ivanlukichev/backupeject-landing/releases/latest/download/BackupEject.dmg">Download for Mac</a> · <a href="https://github.com/ivanlukichev/backupeject-landing">GitHub</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://slidepuzzle.app/slide-puzzle-solver/"><img src="assets/slide-puzzle-solver-preview.jpg" alt="Puzzle Slide Solver preview"></a><br>
+      <strong>Puzzle Slide Solver</strong><br>
+      <sub>Solve any sliding puzzle from 3×3 to 6×6 — instant optimal solutions with step-by-step guides, fully offline. Companion app to Slide Puzzle.</sub><br>
+      <a href="https://slidepuzzle.app/slide-puzzle-solver/">site</a> · <a href="https://apps.apple.com/app/id6799048857">App Store</a>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
