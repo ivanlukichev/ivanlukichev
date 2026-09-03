@@ -315,7 +315,12 @@ Browser games built for quick play sessions.
       <sub>Solve any sliding puzzle from 3×3 to 6×6 — instant optimal solutions with step-by-step guides, fully offline. Companion app to Slide Puzzle.</sub><br>
       <a href="https://slidepuzzle.app/slide-puzzle-solver/">site</a> · <a href="https://apps.apple.com/app/id6799048857">App Store</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://pickheadphones.com/hearing-test/"><img src="assets/ear-lab-preview.jpg" alt="Ear Lab preview"></a><br>
+      <strong>Ear Lab: Hearing Age</strong><br>
+      <sub>Hearing test in your pocket — six checks that build a Hearing Profile and estimate your hearing age. Full-app companion to the free PickHeadphones online hearing test.</sub><br>
+      <a href="https://pickheadphones.com/hearing-test/">site</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.hearinglab">Google Play</a>
+    </td>
   </tr>
 </table>
 
