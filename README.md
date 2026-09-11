@@ -322,6 +322,15 @@ Browser games built for quick play sessions.
       <a href="https://pickheadphones.com/hearing-test/">site</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.hearinglab">Google Play</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mushtrail.com/compass/"><img src="assets/find-way-back-preview.jpg" alt="Compass: Find Way Back preview"></a><br>
+      <strong>Compass: Find Way Back</strong><br>
+      <sub>Save any place with one tap and follow the arrow back — a simple GPS compass that remembers where you parked, where your tent is, where you agreed to meet. Works offline, no account. From the creators of MushTrail; coming soon to the App Store and Google Play.</sub><br>
+      <a href="https://mushtrail.com/compass/">site</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ### 🚀 Extensions & Apps
