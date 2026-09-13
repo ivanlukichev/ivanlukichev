@@ -263,7 +263,7 @@ Browser games built for quick play sessions.
       <a href="https://coffeeline.app/"><img src="assets/coffeeline-preview.jpg" alt="CoffeeLine preview"></a><br>
       <strong>CoffeeLine</strong><br>
       <sub>A cozy barista arcade — orders ride down the ticket line, pull a ticket, open the right tap, stop at the perfect level. No rush, no nervous timers.</sub><br>
-      <a href="https://coffeeline.app/">site</a> · <a href="https://apps.apple.com/app/id6784132379">App Store</a>
+      <a href="https://coffeeline.app/">site</a> · <a href="https://apps.apple.com/app/id6784132379">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.coffeelines">Google Play</a>
     </td>
   </tr>
   <tr>
