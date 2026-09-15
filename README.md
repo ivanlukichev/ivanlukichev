@@ -329,7 +329,12 @@ Browser games built for quick play sessions.
       <sub>Save any place with one tap and follow the arrow back — a simple GPS compass that remembers where you parked, where your tent is, where you agreed to meet. Works offline, no account. From the creators of MushTrail; coming soon to the App Store and Google Play.</sub><br>
       <a href="https://mushtrail.com/compass/">site</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://meinkreis.app/"><img src="assets/kreis-preview.jpg" alt="Kreis preview"></a><br>
+      <strong>Kreis</strong><br>
+      <sub>A private photo home for families, friends, teams and clubs — every shared moment in one calm place, in full quality, encrypted on EU servers. Passwordless sign-in, guest uploads via link, export anytime.</sub><br>
+      <a href="https://meinkreis.app/">site</a> · <a href="https://apps.apple.com/app/id6803855914">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.kreis">Google Play</a>
+    </td>
   </tr>
 </table>
 
