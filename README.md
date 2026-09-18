@@ -326,8 +326,8 @@ Browser games built for quick play sessions.
     <td width="50%" valign="top">
       <a href="https://mushtrail.com/compass/"><img src="assets/find-way-back-preview.jpg" alt="Compass: Find Way Back preview"></a><br>
       <strong>Compass: Find Way Back</strong><br>
-      <sub>Save any place with one tap and follow the arrow back — a simple GPS compass that remembers where you parked, where your tent is, where you agreed to meet. Works offline, no account. From the creators of MushTrail; coming soon to the App Store and Google Play.</sub><br>
-      <a href="https://mushtrail.com/compass/">site</a>
+      <sub>Save any place with one tap and follow the arrow back — a simple GPS compass that remembers where you parked, where your tent is, where you agreed to meet. Works offline, no account. From the creators of MushTrail; now on Google Play, App Store coming soon.</sub><br>
+      <a href="https://mushtrail.com/compass/">site</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.findwayback">Google Play</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://meinkreis.app/"><img src="assets/kreis-preview.jpg" alt="Kreis preview"></a><br>
