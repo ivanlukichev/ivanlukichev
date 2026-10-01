@@ -336,6 +336,15 @@ Browser games built for quick play sessions.
       <a href="https://meinkreis.app/">site</a> · <a href="https://apps.apple.com/app/id6803855914">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.kreis">Google Play</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://playmathpuzzles.com/"><img src="assets/math-crossword-preview.jpg" alt="Math Crossword Puzzles preview"></a><br>
+      <strong>Math Crossword Puzzles</strong><br>
+      <sub>A crossword where every clue is arithmetic — 1,200 boards in four sizes, a daily puzzle and streaks, fully offline. Mobile companion to the PlayMathPuzzles browser game.</sub><br>
+      <a href="https://playmathpuzzles.com/">site</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.mathcrossword">Google Play</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ### 🚀 Extensions & Apps
