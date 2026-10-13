@@ -83,10 +83,10 @@ A collection of small independent web products and experiments.
       <a href="https://howloud.org/">site</a> · <a href="https://apps.apple.com/app/id6767616413">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.decibelmeter">Google Play</a> · <a href="https://howloud.org/extension/">Browser extension</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://apps.apple.com/app/id6771039438"><img src="assets/headphone-test-preview.png" alt="Headphone Test preview"></a><br>
+      <a href="https://headphonecheck.org/"><img src="assets/headphone-test-preview.jpg" alt="Headphone Check preview"></a><br>
       <strong>Headphone Test</strong><br>
-      <sub>Native iPhone companion to PickHeadphones — left/right, stereo balance, bass pulse, frequency sweep, and mic checks in one app.</sub><br>
-      <a href="https://pickheadphones.com/">site</a> · <a href="https://apps.apple.com/app/id6771039438">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.headphonesoundcheck">Google Play</a>
+      <sub>Free online headphone test at headphonecheck.org plus iPhone and Android apps — left/right, stereo balance, bass, frequency sweep and mic checks.</sub><br>
+      <a href="https://headphonecheck.org/">site</a> · <a href="https://apps.apple.com/app/id6771039438">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.headphonesoundcheck">Google Play</a>
     </td>
   </tr>
 </table>
