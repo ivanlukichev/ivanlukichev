@@ -350,6 +350,15 @@ Browser games built for quick play sessions.
       <a href="https://sawmillplanner.com/">site</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://colornamefinder.org/"><img src="assets/colornamefinder-preview.jpg" alt="Color Name Finder preview"></a><br>
+      <strong>Color Name Finder</strong><br>
+      <sub>Find the name of any color — from a palette, a photo or a HEX, RGB or HSL code, matched against 30,000+ named colors. Camera app for iPhone and Android coming soon.</sub><br>
+      <a href="https://colornamefinder.org/">site</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ### 🚀 Extensions & Apps
