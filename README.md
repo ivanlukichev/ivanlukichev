@@ -346,8 +346,8 @@ Browser games built for quick play sessions.
     <td width="50%" valign="top">
       <a href="https://sawmillplanner.com/"><img src="assets/sawmillplanner-preview.jpg" alt="Sawmill Planner preview"></a><br>
       <strong>Sawmill Planner</strong><br>
-      <sub>Sawmill planning for band-mill operators — free board foot, log scale and log cutting calculators with blade heights for every cut. iPhone, iPad and Android app coming soon.</sub><br>
-      <a href="https://sawmillplanner.com/">site</a>
+      <sub>Sawmill planning for band-mill operators — free board foot, log scale and log cutting calculators with blade heights for every cut. iPhone and iPad app on the App Store, Android coming soon.</sub><br>
+      <a href="https://sawmillplanner.com/">site</a> · <a href="https://apps.apple.com/app/id6823175678">App Store</a>
     </td>
   </tr>
   <tr>
