@@ -357,7 +357,12 @@ Browser games built for quick play sessions.
       <sub>Find the name of any color — from a palette, a photo or a HEX, RGB or HSL code, matched against 30,000+ named colors. Camera app for iPhone and Android coming soon.</sub><br>
       <a href="https://colornamefinder.org/">site</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://easygymlog.com/"><img src="assets/easygymlog-preview.jpg" alt="Easy Gym Log preview"></a><br>
+      <strong>Easy Gym Log</strong><br>
+      <sub>A gym notebook on your wrist — write your program once, then log every set on Apple Watch in one tap with last time's weights filled in. iPhone and Apple Watch app coming soon.</sub><br>
+      <a href="https://easygymlog.com/">site</a>
+    </td>
   </tr>
 </table>
 
