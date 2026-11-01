@@ -354,8 +354,8 @@ Browser games built for quick play sessions.
     <td width="50%" valign="top">
       <a href="https://colornamefinder.org/"><img src="assets/colornamefinder-preview.jpg" alt="Color Name Finder preview"></a><br>
       <strong>Color Name Finder</strong><br>
-      <sub>Find the name of any color — from a palette, a photo or a HEX, RGB or HSL code, matched against 30,000+ named colors. Camera app for iPhone and Android coming soon.</sub><br>
-      <a href="https://colornamefinder.org/">site</a>
+      <sub>Find the name of any color — from a palette, a photo or a HEX, RGB or HSL code, matched against 30,000+ named colors. Camera app on Android, iPhone coming soon.</sub><br>
+      <a href="https://colornamefinder.org/">site</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.colornamefinder">Google Play</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://easygymlog.com/"><img src="assets/easygymlog-preview.jpg" alt="Easy Gym Log preview"></a><br>
