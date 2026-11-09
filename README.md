@@ -299,7 +299,7 @@ Browser games built for quick play sessions.
       <a href="https://terseeditor.com/"><img src="assets/terseeditor-preview.jpg" alt="TerseEditor preview"></a><br>
       <strong>TerseEditor</strong><br>
       <sub>Native macOS text editor that opens before you let go of the keys — plain-text notes, syntax highlighting for 9 languages, no cloud, no account. Free beta, Apple silicon, macOS 14+.</sub><br>
-      <a href="https://terseeditor.com/">site</a> · <a href="https://terseeditor.com/downloads/TerseEditor-0.1.0-beta.zip">Download for Mac</a>
+      <a href="https://terseeditor.com/">site</a> · <a href="https://terseeditor.com/#download">Download for Mac</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://ivanlukichev.github.io/backupeject-landing/"><img src="assets/backupeject-preview.jpg" alt="BackupEject preview"></a><br>
@@ -310,10 +310,10 @@ Browser games built for quick play sessions.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://slidepuzzle.app/slide-puzzle-solver/"><img src="assets/slide-puzzle-solver-preview.jpg" alt="Puzzle Slide Solver preview"></a><br>
+      <a href="https://slidepuzzle.app/solvers/"><img src="assets/slide-puzzle-solver-preview.jpg" alt="Puzzle Slide Solver preview"></a><br>
       <strong>Puzzle Slide Solver</strong><br>
       <sub>Solve any sliding puzzle from 3×3 to 6×6 — instant optimal solutions with step-by-step guides, fully offline. Companion app to Slide Puzzle.</sub><br>
-      <a href="https://slidepuzzle.app/slide-puzzle-solver/">site</a> · <a href="https://apps.apple.com/app/id6799048857">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.slidesolver">Google Play</a>
+      <a href="https://slidepuzzle.app/solvers/">site</a> · <a href="https://apps.apple.com/app/id6799048857">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.enidev.slidesolver">Google Play</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://pickheadphones.com/hearing-test/"><img src="assets/ear-lab-preview.jpg" alt="Ear Lab preview"></a><br>
