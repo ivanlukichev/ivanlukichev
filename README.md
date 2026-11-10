@@ -364,6 +364,15 @@ Browser games built for quick play sessions.
       <a href="https://easygymlog.com/">site</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.enidev.foldbreaker"><img src="assets/foldbreaker-preview.jpg" alt="Fold Breaker preview"></a><br>
+      <strong>Fold Breaker</strong><br>
+      <sub>A calm neon brick-breaker made for foldable phones — playfield on the top half, controls on the bottom. 30 handcrafted levels, power-ups and 140+ stickers to collect. Plays on regular phones too.</sub><br>
+      <a href="https://play.google.com/store/apps/details?id=com.enidev.foldbreaker">Google Play</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ### 🚀 Extensions & Apps
